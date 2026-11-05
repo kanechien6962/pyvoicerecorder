@@ -1,5 +1,7 @@
 # Voice Recorder (pyvoicerecorder)
 
+![rec_ui](./rec_ui.png)
+
 `pyvoicerecorder` is a Python-based GUI viewer built with PyQt, designed for reocrder meeting minutes by use computer microphone.
 
 ## Project Structure

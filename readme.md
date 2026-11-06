@@ -8,7 +8,7 @@
 
 ```
 pyvoicerecorder/
-├── recorder_m4a.py          # Main application: DBI Viewer GUI
+├── recorder_m4a.py          # Main application: Voice recorder GUI
 ├── build_exe.bat            # Windows batch script for building the .exe executable
 ├── rec_256x256.ico          # Application icon (ICO format)
 └── requirements.txt         # Python dependencies list
